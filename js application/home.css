@@ -1,0 +1,28 @@
+.navbar{
+background-color: teal;
+height: 50px;
+width: 100%;
+/* position: fixed;     */
+}
+    
+.welcome{
+    position: absolute;
+    top: 1px;
+    left: 30px;
+}
+
+.button{
+position: absolute;
+right: 20px;
+top: 17px;
+height: 30px;
+width: 80px; 
+
+}
+.plus{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
